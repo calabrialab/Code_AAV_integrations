@@ -1,4 +1,4 @@
-# Code_AAV_integrations
+# Repository of the Code for AAV integrations
 _AAV integrations using RAAVioli in Ferrari, Cesana et al, Cell Stem Cell_
 
 The code here released supported the generation of the results presented in the manuscript from Ferrari S., Jacob A., Cesana D., et al 2022.
